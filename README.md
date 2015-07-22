@@ -1,2 +1,7 @@
-# hello-world
-The first repository
+hello-world
+===========
+
+Hi, Humans!
+
+Jerry here, I like Node.js and Coffeescript (that's what I'm made of!).
+I'v had tacos on the moon and find them far superior to Earth tacos.
